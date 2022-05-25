@@ -1,4 +1,5 @@
 Programa para simular um backend e fazer mockagem para o frontend
+
 ---- inicializar o servidor -----
     node jsonServer.js
 
