@@ -1,0 +1,42 @@
+{
+    "menu":{
+        "itens":[
+            {
+                "name" : "Dashboard", "icon" : "/src/images/dashboard.jpg", "link" : "/dashboard", 
+                "itens":[]
+            },
+
+            {
+                "name" : "Setores", "icon" : "/src/images/sectors.bitmap", "link" : "null",
+                "itens":[{"name" : "Primeira Prensagem Anéis", "link" : "/PRPAneis"},
+                    {"name" : "Primeira Prensagem Guias", "link" : "/PRPGuias"},
+                    {"name" : "Segunda Prensagem", "link" : "/SGP"}            
+                    ]
+            },
+            {
+                "name" : "Estatistica", "icon" : "/src/images/dashboard.bitmap",
+                "itens" : [{"name" : "Tempo Real", "link" : "/tempoReal"},
+                    {"name" : "Tempo Real", "link" : "/historico"}
+                ]
+            }
+        ]
+    },
+    "dashboard" : { "title" : "Dashboard",
+        "itens" : [
+           {"title" : "BALANÇAS", 
+            "progressBar": [
+                {"title": "Disponibilidade", "value": "0.5"},
+                {"title": "Eficiência", "value": "0.75"},
+                {"title": "Produtividade", "value": "0.95"}
+                ],
+            "Status":[
+                {"name" : "PC20", "status" : "stopped", "time": "34774808"},
+                {"name" : "PC18", "status" : "producing", "time": "NULL"},
+                {"name" : "PC19", "status" : "noPogramming", "time": "NULL"},
+                {"name" : "PC17", "status" : "noData", "time": "84732723"},
+                {"name" : "PC16", "status" : "stopped", "time": "18347493"}
+                ]
+            }
+        ]  
+    }
+}
