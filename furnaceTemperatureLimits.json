@@ -1,0 +1,39 @@
+{
+    "furnaceTemperatureLimits": {
+        "title": "Fornos - Limites de Temperatura",
+        "items": [
+            {
+                "title": "INCINERADOR",
+                "link": "",
+                "minimum": {
+                    "title": "MÍNIMO",
+                    "textValue": "",
+                    "value": "680",
+                    "icon": ""
+                },
+                "maximum": {
+                    "title": "MÁXIMO",
+                    "textValue": "",
+                    "value": "720",
+                    "icon": ""
+                }
+            },
+            {
+                "title": "C1 PRÉ-ZONA 1",
+                "link": "",
+                "minimum": {
+                    "title": "MÍNIMO",
+                    "textValue": "",
+                    "value": "630",
+                    "icon": ""
+                },
+                "maximum": {
+                    "title": "MÁXIMO",
+                    "textValue": "",
+                    "value": "670",
+                    "icon": ""
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "menu": {
+        "items": [
+            {
+                "title": "BLEISTAHL",
+                "icon": "/src/images/logoBleistahl.jpg",
+                "link": "",
+                "items": []
+            },
+            {
+                "title": "Dashboard",
+                "icon": "/src/images/dashboard.jpg",
+                "link": "/dashboard",
+                "items": []
+            },
+            {
+                "title": "Setores",
+                "icon": "/src/images/setores.jpg",
+                "link": "/setores",
+                "items": []
+            },
+            {
+                "title": "Estatísticas",
+                "icon": "/src/images/estatisticas.jpg",
+                "items": [
+                    {
+                        "title": "Tempo Real-Máquina",
+                        "link": "/maquinaTempoReal"
+                    },
+                    {
+                        "title": "Histórico-Máquina",
+                        "link": "/maquinaHistorico"
+                    },
+                    {
+                        "title": "Fornos",
+                        "link": "/fornoTempoReal"
+                    }
+                ]
+            },
+            {
+                "title": "Usuário",
+                "icon": "/src/images/login.jpg",
+                "link": "/login",
+                "items": []
+            }
+        ]
+    }
+}

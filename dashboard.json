@@ -1,0 +1,74 @@
+{
+    "dashboard": {
+        "title": "Dashboard",
+        "items": [
+            {
+                "title": "PRP ANÉIS",
+                "link": "/prpAneis",
+                "availability": {
+                    "title": "Disponibilidade",
+                    "textValue": "50%",
+                    "value": "0.5",
+                    "icon": ""
+                },
+                "eficiency": {
+                    "title": "Eficiência",
+                    "textValue": "75%",
+                    "value": "0.75",
+                    "icon": ""
+                },
+                "produced": {
+                    "title": "Produzido",
+                    "textValue": "23568/45236",
+                    "value": "23568/45236",
+                    "icon": ""
+                },
+                "status": [
+                    {
+                        "title": "STATUS",
+                        "link": "/tabelaStatus"
+                    },
+                    {
+                        "icon": "/src/images/produzindo.jpg",
+                        "value": "5"
+                    },
+                    {
+                        "icon": "/src/images/semProgramacao.jpg",
+                        "value": "2"
+                    },
+                    {
+                        "icon": "/src/images/parado.jpg",
+                        "value": "4"
+                    }
+                ],
+                "statusTable": [
+                    {
+                        "title": "PC20",
+                        "statusColor": "stopped",
+                        "time": "34774808"
+                    },
+                    {
+                        "title": "PC18",
+                        "statusColor": "producing",
+                        "time": "NULL"
+                    },
+                    {
+                        "title": "PC19",
+                        "statusColor": "noProgramming",
+                        "time": "NULL"
+                    },
+                    {
+                        "title": "PC17",
+                        "statusColor": "noData",
+                        "time": "84732723"
+                    },
+                    {
+                        "title": "PC16",
+                        "statusColor": "stopped",
+                        "time": "18347493"
+                    }
+                ]
+            }
+        ]
+    }
+}

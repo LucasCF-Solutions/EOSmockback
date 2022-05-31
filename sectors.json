@@ -1,0 +1,122 @@
+{
+    "sectors": {
+        "title": "Setores",
+        "sector": "PRP Anéis",
+        "items": [
+            {
+                "title": "PC02",
+                "statusColor": "producing",
+                "link": "/maquinaTempoReal/PC02",
+                "availiability": {
+                    "title": "Disponibilidade",
+                    "textValue": "0.5",
+                    "value": "",
+                    "icon": ""
+                },
+                "efficiency": {
+                    "title": "Eficiência",
+                    "textValue": "0.75",
+                    "value": "",
+                    "icon": "/src/images/eficiencia.jpg"
+                },
+                "cycleTime": {
+                    "title": "Tempo de Ciclo",
+                    "textValue": "5,1",
+                    "value": "",
+                    "icon": "/src/images/tempoDeCiclo.jpg"
+                },
+                "productivity": {
+                    "title": "Produtividade",
+                    "textValue": "45/50",
+                    "value": "",
+                    "icon": ""
+                }
+            },
+            {
+                "title": "PC09",
+                "statusColor": "stopped",
+                "link": "/maquinaTempoReal/PC09",
+                "availability": {
+                    "title": "Disponibilidade",
+                    "textValue": "",
+                    "value": "0%",
+                    "icon": ""
+                },
+                "efficiency": {
+                    "title": "Eficiência",
+                    "textValue": "",
+                    "value": "0%",
+                    "icon": "/src/images/eficiencia.jpg"
+                },
+                "cycleTime": {
+                    "title": "Tempo de Ciclo",
+                    "textValue": "",
+                    "value": "0",
+                    "icon": "/src/images/tempoDeCiclo.jpg"
+                },
+                "productivity": {
+                    "title": "Produtividade",
+                    "textValue": "0",
+                    "value": "",
+                    "icon": ""
+                }
+            },
+            {
+                "title": "PC08",
+                "statusColor": "noProgramming",
+                "link": "/maquinaTempoReal/PC08",
+                "availability": {
+                    "title": "Disponibilidade",
+                    "textValue": "",
+                    "value": "0%",
+                    "icon": ""
+                },
+                "efficiency": {
+                    "title": "Eficiência",
+                    "textValue": "",
+                    "value": "0%",
+                    "icon": "/src/images/eficiencia.jpg"
+                },
+                "cycleTime": {
+                    "title": "Tempo de Ciclo",
+                    "textValue": "",
+                    "value": "0",
+                    "icon": "/src/images/tempoDeCiclo.jpg"
+                },
+                "productivity": {
+                    "title": "Produtividade",
+                    "textValue": "0",
+                    "value": ""
+                }
+            },
+            {
+                "title": "PC20",
+                "statusColor": "noData",
+                "availability": {
+                    "title": "Disponibilidade",
+                    "textValue": "",
+                    "value": "NULL",
+                    "icon": ""
+                },
+                "eficiency": {
+                    "title": "Eficiência",
+                    "textValue": "",
+                    "value": "NULL",
+                    "icon": "/src/images/eficiencia.jpg"
+                },
+                "cycleTime": {
+                    "title": "Tempo de Ciclo",
+                    "textValue": "",
+                    "value": "NULL",
+                    "icon": "/src/images/tempoDeCiclo.jpg"
+                },
+                "productivity": {
+                    "title": "Produtividade",
+                    "textValue": "NULL",
+                    "value": "",
+                    "icon": ""
+                }
+            }
+        ]
+    }
+}

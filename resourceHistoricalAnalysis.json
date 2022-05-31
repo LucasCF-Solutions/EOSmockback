@@ -1,0 +1,133 @@
+{
+    "resourceHistoricalAnalysis": {
+        "title": "Consultas Históricos",
+        "sector": "PRP Anéis",
+        "resource": "PC20",
+        "initialDate": "86400000",
+        "finalDate": "97800000",
+        "timeSelection": "86540000",
+        "efficiency": {
+            "title": "Eficiência",
+            "textValue": "50%",
+            "value": "0.5",
+            "icon": ""
+        },
+        "produced": {
+            "title": "Produzido",
+            "textValue": "25214/30000",
+            "value": "0.85",
+            "icon": ""
+        },
+        "availability": {
+            "title": "Disponibilidade",
+            "textValue": "80%",
+            "value": "0.8",
+            "icon": ""
+        },
+        "availabilityGraph": {
+            "producing": {
+                "title": "Produzindo",
+                "percentage": "50%",
+                "hours": "0,5h"
+            },
+            "stopped": {
+                "title": "Parado",
+                "percentage": "20%",
+                "hours": "0,2h"
+            },
+            "noProgramming": {
+                "title": "S/Programação",
+                "percentage": "20%",
+                "hours": "0,2h"
+            },
+            "noData": {
+                "title": "S/Dados",
+                "percentage": "10%",
+                "hours": "0,1h"
+            }
+        },
+        "productivityTable": [
+            {
+                "dateTime": "8945200",
+                "partsPerMinute": "50",
+                "totalProduction": "22542",
+                "statusColor": "producing"
+            },
+            {
+                "dateTime": "8945200",
+                "partsPerMinute": "0",
+                "totalProduction": "22542",
+                "statusColor": "stopped"
+            },
+            {
+                "dateTime": "8945200",
+                "partsPerMinute": "0",
+                "totalProduction": "22542",
+                "statusColor": "noProgramming"
+            },
+            {
+                "dateTime": "8945200",
+                "partsPerMinute": "NULL",
+                "totalProduction": "NULL",
+                "statusColor": "noData"
+            }
+        ],
+        "oeeTable": [
+            {
+                "dateTime": "8945200",
+                "efficiency": "0",
+                "availability": "0",
+                "statusGraph": {
+                    "producing": 0,
+                    "stopped": 1,
+                    "noProgramming": 0,
+                    "noData": 0
+                }
+            },
+            {
+                "dateTime": "8945200",
+                "efficiency": "0.65",
+                "availability": "0.75",
+                "statusGraph": {
+                    "producing": 1,
+                    "stopped": 0,
+                    "noProgramming": 0,
+                    "noData": 0
+                }
+            },
+            {
+                "dateTime": "8945200",
+                "efficiency": "0",
+                "availability": "1",
+                "statusGraph": {
+                    "producing": 0,
+                    "stopped": 0,
+                    "noProgramming": 1,
+                    "noData": 0
+                }
+            },
+            {
+                "dateTime": "8945200",
+                "efficiency": "NULL",
+                "availability": "NULL",
+                "statusGraph": {
+                    "producing": 0,
+                    "stopped": 0,
+                    "noProgramming": 0,
+                    "noData": 1
+                }
+            },
+            {
+                "dateTime": "8945200",
+                "efficiency": "0",
+                "availability": "0",
+                "statusGraph": {
+                    "producing": 0,
+                    "stopped": 1,
+                    "noProgramming": 0,
+                    "noData": 0
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "furnaceHistoricalAnalysis": {
+        "title": "Fornos - Consultas Históricos",
+        "sector": "FS07",
+        "initialDate": "86400000",
+        "finalDate": "97800000",
+        "timeSelection": "86540000",
+        "temperatureTable": [
+            {
+                "dateTime": "8945200",
+                "conveyor": "115",
+                "preZone1": "650",
+                "preZone2": "680",
+                "zone1": "1068",
+                "zone2": "1080",
+                "zone3": "1120",
+                "zone4": "1120",
+                "zone5": "1120"
+            },
+            {
+                "dateTime": "8945200",
+                "conveyor": "115",
+                "preZone1": "650",
+                "preZone2": "680",
+                "zone1": "1068",
+                "zone2": "1080",
+                "zone3": "1120",
+                "zone4": "1120",
+                "zone5": "1120"
+            },
+            {
+                "dateTime": "8945200",
+                "conveyor": "115",
+                "preZone1": "650",
+                "preZone2": "680",
+                "zone1": "1068",
+                "zone2": "1080",
+                "zone3": "1120",
+                "zone4": "1120",
+                "zone5": "1120"
+            },
+            {
+                "dateTime": "8945200",
+                "conveyor": "115",
+                "preZone1": "650",
+                "preZone2": "680",
+                "zone1": "1068",
+                "zone2": "1080",
+                "zone3": "1120",
+                "zone4": "1120",
+                "zone5": "1120"
+            }
+        ]
+    }
+}

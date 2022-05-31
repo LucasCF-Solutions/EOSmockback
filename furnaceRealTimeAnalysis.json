@@ -1,0 +1,60 @@
+{
+    "furnaceRealTimeAnalysis": {
+        "title": "FS07-Tempo Real",
+        "furnace": "FS07",
+        "items": [
+            {
+                "title": "ESTEIRA",
+                "zoneData": [
+                    {
+                        "title": "SETPOINT",
+                        "value": "117"
+                    },
+                    {
+                        "title": "REAL",
+                        "value": "115"
+                    }
+                ]
+            },
+            {
+                "title": "PRÉ-ZONA 1",
+                "zoneData": [
+                    {
+                        "title": "SETPOINT",
+                        "value": "700"
+                    },
+                    {
+                        "title": "REAL",
+                        "value": "650"
+                    }
+                ],
+                "alarmsTable": [
+                    {
+                        "dateTime": "8564126",
+                        "alarm": "Temperatura Alta Pré-Zona 1"
+                    },
+                    {
+                        "dateTime": "8564126",
+                        "alarm": "Temperatura Baixa Zona 4"
+                    },
+                    {
+                        "dateTime": "8564126",
+                        "alarm": "Velocidade Baixa Esteira"
+                    },
+                    {
+                        "dateTime": "8564126",
+                        "alarm": "Temperatura Normalizada Pré-Zona 1"
+                    },
+                    {
+                        "dateTime": "8564126",
+                        "alarm": "Velocidade Alta Esteira"
+                    },
+                    {
+                        "dateTime": "8564126",
+                        "alarm": "Velocidade Normalizada Esteira"
+                    }
+                ]
+            }
+        ]
+    }
+}
